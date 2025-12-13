@@ -1,6 +1,6 @@
 # Krittapat Tragoolpua, Pooh
 
-Computer Engineering student, CEDT, Chulalongkorn University.
+Computer Engineering student, CEDT, Chulalongkorn University
 
 ## Focus
 - DevOps & Infrastructure: Kubernetes, CI/CD, observability
