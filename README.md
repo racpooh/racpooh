@@ -1,16 +1,26 @@
-## Hi there 👋
+# Krittapat Tragoolpua, Pooh
 
-<!--
-**racpooh/racpooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps / Infrastructure-oriented Software Engineering student (CEDT, Chulalongkorn University).
 
-Here are some ideas to get you started:
+## Focus
+- DevOps & Infrastructure: Kubernetes, CI/CD, observability
+- Backend & Databases: Node.js, MySQL, MongoDB
+- AI/HealthTech projects (award-winning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+**O-RA (Osteoarthritis Rehabilitation Assistant)**  
+Website: https://ora-website-five.vercel.app/  git
+Repo/Archive: https://github.com/racpooh/ora-website
+
+## Experience
+- DevOps Engineer Trainee @ NIPA Cloud (Kubernetes, Ingress benchmarking, CI/CD, monitoring)
+
+## Tech Stack
+- Docker, Kubernetes, Helm, GitHub Actions
+- Prometheus, Grafana, k6
+- Node.js, Next.js, MySQL, MongoDB
+
+## Links
+- GitHub: https://github.com/racpooh
+- Medium: https://medium.com/@worapob0701/the-ultimate-k8s-ingress-showdown-nginx-vs-traefik-vs-haproxy-vs-apisix-da886c4ee013
+- Email: pooh37806@gmail.com
