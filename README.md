@@ -6,7 +6,7 @@ Computer Engineering student, CEDT, Chulalongkorn University.
 - DevOps & Infrastructure: Kubernetes, CI/CD, observability
 - Backend & Databases: Node.js, MySQL, MongoDB
 - Business & Transaction Interest
-- AI/HealthTech projects (award-winning)
+- AI/HealthTech projects
 
 ## Featured Project
 **O-RA Osteoarthritis Rehabilitation Assistant**  
