@@ -9,7 +9,7 @@ DevOps / Infrastructure-oriented Software Engineering student (CEDT, Chulalongko
 
 ## Featured Project
 **O-RA (Osteoarthritis Rehabilitation Assistant)**  
-Website: https://ora-website-five.vercel.app/  git
+Website: https://ora-website-five.vercel.app/  
 Repo/Archive: https://github.com/racpooh/ora-website
 
 ## Experience
