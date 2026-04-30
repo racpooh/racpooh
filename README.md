@@ -11,7 +11,7 @@ Computer Engineering student, CEDT, Chulalongkorn University
 ## Featured Project
 **O-RA Osteoarthritis Rehabilitation Assistant**  
 Website: https://ora-website-five.vercel.app/  
-Repo/Archive: https://github.com/racpooh/ora-website
+Repo/Archive: https://github.com/racpooh/ora-website  
 https://pubmed.ncbi.nlm.nih.gov/41985075/
 
 ## Experience
