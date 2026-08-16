@@ -22,8 +22,7 @@ Worked on cloud-native infrastructure and performance engineering.
 * Deployed services with Helm and implemented monitoring with Prometheus and Grafana
 * Benchmarked NGINX, Traefik, HAProxy, and APISIX Ingress Controllers using k6
 
-**Article:**
-https://medium.com/@worapob0701/the-ultimate-k8s-ingress-showdown-nginx-vs-traefik-vs-haproxy-vs-apisix-da886c4ee013
+**Article:** https://medium.com/@worapob0701/the-ultimate-k8s-ingress-showdown-nginx-vs-traefik-vs-haproxy-vs-apisix-da886c4ee013  
 
 ### Performance Control & Automation Intern @ Shopee SPX Express
 
@@ -41,9 +40,9 @@ Worked on operational data systems, automation, and performance analysis across 
 
 AI-powered rehabilitation platform using real-time pose estimation and joint-angle analysis for home-based osteoarthritis rehabilitation.
 
-**Website:** https://ora-website-five.vercel.app/
-**Repository:** https://github.com/racpooh/ora-website
-**Research:** https://pubmed.ncbi.nlm.nih.gov/41985075/
+**Website:** https://ora-website-five.vercel.app/  
+**Repository:** https://github.com/racpooh/ora-website  
+**Research:** https://pubmed.ncbi.nlm.nih.gov/41985075/  
 
 ## Tech Stack
 
