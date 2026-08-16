@@ -36,7 +36,7 @@ Worked on operational data systems, automation, and performance analysis across 
 
 ## Featured Project
 
-### O-RA — Osteoarthritis Rehabilitation Assistant
+### O-RA Osteoarthritis Rehabilitation Assistant
 
 AI-powered rehabilitation platform using real-time pose estimation and joint-angle analysis for home-based osteoarthritis rehabilitation.
 
